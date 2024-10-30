@@ -10,5 +10,5 @@
 
 ## Reporting a Vulnerability
 
-SLib will be updated on average every month.
+This addon will be updated on average every month.
 Use the latest version to stay safe.
